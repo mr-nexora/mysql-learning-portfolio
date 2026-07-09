@@ -7,6 +7,8 @@
 ## MySQL Aliases
 
 
+
+
 ---
 
 ## ⚖️ Copyright & Licensing

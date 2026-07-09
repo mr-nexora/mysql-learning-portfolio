@@ -7,6 +7,8 @@
 ## MySQL INSERT SELECT
 
 
+
+
 ---
 
 ## ⚖️ Copyright & Licensing
